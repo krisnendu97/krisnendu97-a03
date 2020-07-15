@@ -1,0 +1,77 @@
+img{
+    width: 40px;
+    margin-top: -10px;
+    padding-left: 5px;
+}
+
+.nav-item{
+    padding-left: 50px;
+}
+
+.serach-icon {
+    padding-left: 50px;  
+}
+
+
+.sidebar{
+    position: fixed;
+    left: 0;
+    
+    background:#C0C0C0; 
+}
+
+.sidebar ul li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.sidebar ul a{
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 40px;
+    font-size: 20px;
+    padding-left: 40px;
+    box-sizing: border-box;
+    border-top: 1px solid black;      
+}
+
+.customDiv{
+    margin: 10px;
+    min-height: 250px;
+    background-color: silver;
+    text-align: center;
+    font-size: medium;  
+    border-radius: 25px;
+    margin-bottom: 20px;
+   
+}
+
+.statsDiv{
+    float: right;
+     margin-right: 10px;
+    min-height: 250px;
+    background-color: silver;
+    text-align: center;
+    font-size: medium;  
+    border-radius: 25px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
